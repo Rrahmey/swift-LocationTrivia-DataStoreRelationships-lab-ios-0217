@@ -23,3 +23,8 @@ class Trivium {
         self.likes = likes
     }
 }
+
+
+let new = LocationDataStore.sharedInstance
+
+
